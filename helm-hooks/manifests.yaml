@@ -46,6 +46,7 @@ spec:
     metadata:
       labels:
         tier: frontend
+        borel: test
     spec:
       containers:
         - name: main
